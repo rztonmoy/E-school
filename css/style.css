@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h2{
+    margin-bottom: 60px;
+}
+
+p>span{
+    color: #FD511A;
+}
+
+h1>span{
+    color: #21B573;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+header{
+    background-color: #F0FFF0;
+    width: auto;
+    padding-bottom: 50px;
+
+}
+
+.navbar img{
+    width: 198px;
+    height: 59px;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: #000;
+    margin-left: 10px;
+    padding: 5px 18px;
+}
+
+.btn{
+    background-color: #21B573;
+    border-radius: 22px;
+    padding: 5px 18px;
+    color: white;
+}
+
+.btn:hover{
+    color: #fff;
+}
+
+.header-content-btn{
+    margin-top: 25px;
+}
+
+article p{
+    color: #6C6B6B;
+    margin-bottom: 20px;
+}
+
+.blog-section{
+    margin-top: 80px;
+}
+
+.col-body{
+    padding: 40px 15px 40px 15px;
+    border-radius: 10px;
+    transition: background-color, box-shadow 0.5s;
+}
+
+.col-body:hover{
+    background-color: #F0FFF0;
+    box-shadow: 0px 20px 40px lightgray;
+    cursor: pointer;
+}
+
+.col-body img{
+    height: 85px;
+    width: 70px;
+    margin-bottom: 20px;
+}
+
+.col-body h5{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.col-body p{
+    color: #585859;
+}
+
+.card, .card-footer{
+    border: none;
+    background-color: transparent;
+    box-shadow: 0px 20px 40px lightgray;
+}
+
+.card-footer img{
+    width: 24px;
+    height: 24px;
+}
+
+.testimonial img{
+    width: 160px;
+}
+
+
+article img{
+    width: 120px;
+    background-color: #C4C4C4;
+    margin-right: 20px
+}
+
+footer{
+    background-color: #282531;
+    padding: 60px 0 20px 0;
+    color: #fff;
+}
+
+footer h6{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+footer p{
+    font-size: 14px;
+    font-weight: 200;
+    cursor: pointer;
+}
+.copy-rights{
+    padding-top: 40px;
+    
+}
